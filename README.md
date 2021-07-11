@@ -1,6 +1,17 @@
 # SlowMotion
 SlowMotion Fortnite Exploit
 
+
+
+
+
+
+
+
+
+
+
+
 if (settings::slowmo) {
 							if (LocalPawn && PlayerController)
 							{
